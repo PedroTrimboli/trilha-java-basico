@@ -118,7 +118,7 @@ public int somar(int a, int b) {
 | Operador | Exemplo   | Descrição               |
 |----------|-----------|-------------------------|
 | `&&`     | `a && b`  | E lógico (AND)          |
-| `||`     | `a || b`  | Ou lógico (OR)          |
+| `&#124;&#124;` | `a &#124;&#124; b` | Ou lógico (OR) |
 | `!`      | `!a`      | Negação lógica (NOT)    |
 
 
@@ -137,9 +137,6 @@ public int somar(int a, int b) {
 |----------|----------------|-------------------|
 | `++`     | `a++` ou `++a` | Incrementa 1      |
 | `--`     | `a--` ou `--a` | Decrementa 1      |
-
-
----
 
 ---
 
