@@ -210,18 +210,6 @@ int idade = scanner.nextInt();
 
 ---
 
-## 🧪 Exercícios e Exemplos
-
-Todos os exemplos estão organizados por tema nas pastas:
-
-- `/exemplos/condicionais`
-- `/exemplos/metodos`
-- `/exemplos/classes-objetos`
-- `/exemplos/arrays`
-- `/exemplos/listas`
-
----
-
 ## ✍️ Autor
 
 Desenvolvido por [Pedro Trimboli](https://github.com/pedrotrimboli) — Estudante de Análise e Desenvolvimento de Sistemas, aprendendo Java com projetos práticos.
