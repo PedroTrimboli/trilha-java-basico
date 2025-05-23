@@ -12,6 +12,7 @@ Este repositório foi criado para registrar meus estudos e prática com a lingua
 - [📦 Classes e Objetos](#classes-e-objetos)
 - [⚙️ Métodos](#métodos)
 - [🧠 Variáveis e Tipos](#variáveis-e-tipos)
+- [🧮 Operadores em Java](#operadores-em-java)
 - [🔁 Condições e Laços](#condições-e-laços)
 - [📦 Arrays](#arrays)
 - [📋 Listas (`List` e `ArrayList`)](#listas-list-e-arraylist)
@@ -90,36 +91,53 @@ public int somar(int a, int b) {
 
 ---
 
-## ➗ Operadores em Java
+## 🧮 Operadores em Java
 
-| Categoria          | Operador | Exemplo         | Descrição                          |
-|--------------------|----------|-----------------|------------------------------------|
-| Aritméticos        | `+`      | `a + b`         | Soma                               |
-|                    | `-`      | `a - b`         | Subtração                          |
-|                    | `*`      | `a * b`         | Multiplicação                      |
-|                    | `/`      | `a / b`         | Divisão                            |
-|                    | `%`      | `a % b`         | Resto da divisão (módulo)          |
-|--------------------|----------|-----------------|------------------------------------|
-| Relacionais        | `==`     | `a == b`        | Igual a                            |
-|                    | `!=`     | `a != b`        | Diferente de                       |
-|                    | `>`      | `a > b`         | Maior que                          |
-|                    | `<`      | `a < b`         | Menor que                          |
-|                    | `>=`     | `a >= b`        | Maior ou igual a                   |
-|                    | `<=`     | `a <= b`        | Menor ou igual a                   |
-|--------------------|----------|-----------------|------------------------------------|
-| Lógicos            | `&&`     | `a && b`        | E lógico (AND)                     |
-|                    | `||`     | `a || b`        | Ou lógico (OR)                     |
-|                    | `!`      | `!a`            | Negação lógica (NOT)               |
-|--------------------|----------|-----------------|------------------------------------|
-| Atribuição         | `=`      | `a = 10`        | Atribuição simples                 |
-|                    | `+=`     | `a += 5`        | Soma e atribui                     |
-|                    | `-=`     | `a -= 3`        | Subtrai e atribui                  |
-|                    | `*=`     | `a *= 2`        | Multiplica e atribui               |
-|                    | `/=`     | `a /= 4`        | Divide e atribui                   |
-|                    | `%=`     | `a %= 3`        | Resto e atribui                    |
-|--------------------|----------|-----------------|------------------------------------|
-| Incremento/Decremento | `++`   | `a++` ou `++a`  | Incrementa 1                      |
-|                    | `--`     | `a--` ou `--a`  | Decrementa 1                       |
+### ➕ Operadores Aritméticos
+| Operador | Exemplo  | Descrição         |
+|----------|----------|-------------------|
+| `+`      | `a + b`  | Soma              |
+| `-`      | `a - b`  | Subtração         |
+| `*`      | `a * b`  | Multiplicação     |
+| `/`      | `a / b`  | Divisão           |
+| `%`      | `a % b`  | Resto da divisão  |
+
+
+### 🔍 Operadores Relacionais
+| Operador | Exemplo   | Descrição           |
+|----------|-----------|---------------------|
+| `==`     | `a == b`  | Igual a             |
+| `!=`     | `a != b`  | Diferente de        |
+| `>`      | `a > b`   | Maior que           |
+| `<`      | `a < b`   | Menor que           |
+| `>=`     | `a >= b`  | Maior ou igual a    |
+| `<=`     | `a <= b`  | Menor ou igual a    |
+
+
+### 🔀 Operadores Lógicos
+| Operador | Exemplo   | Descrição               |
+|----------|-----------|-------------------------|
+| `&&`     | `a && b`  | E lógico (AND)          |
+| `||`     | `a || b`  | Ou lógico (OR)          |
+| `!`      | `!a`      | Negação lógica (NOT)    |
+
+
+### 📝 Operadores de Atribuição
+| Operador | Exemplo   | Descrição             |
+|----------|-----------|-----------------------|
+| `=`      | `a = 10`  | Atribuição simples     |
+| `+=`     | `a += 5`  | Soma e atribui         |
+| `-=`     | `a -= 3`  | Subtrai e atribui      |
+| `*=`     | `a *= 2`  | Multiplica e atribui   |
+| `/=`     | `a /= 4`  | Divide e atribui       |
+| `%=`     | `a %= 3`  | Resto e atribui        |
+
+### 🔁 Operadores de Incremento e Decremento
+| Operador | Exemplo        | Descrição         |
+|----------|----------------|-------------------|
+| `++`     | `a++` ou `++a` | Incrementa 1      |
+| `--`     | `a--` ou `--a` | Decrementa 1      |
+
 
 ---
 
