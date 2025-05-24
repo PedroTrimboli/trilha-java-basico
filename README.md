@@ -1,4 +1,3 @@
-
 # 🚀 Trilha de Java Básico
 
 Este repositório foi criado para registrar meus estudos e prática com a linguagem **Java**, focando nos **conceitos fundamentais**. A ideia é aprender de forma prática, com explicações simples e exemplos de código para fixar o conteúdo.
@@ -228,6 +227,8 @@ int idade = scanner.nextInt();
 ## ✍️ Autor
 
 Desenvolvido por [Pedro Trimboli](https://github.com/pedrotrimboli) — Estudante de Análise e Desenvolvimento de Sistemas, aprendendo Java com projetos práticos.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-trimboli/)
 
 ---
 
